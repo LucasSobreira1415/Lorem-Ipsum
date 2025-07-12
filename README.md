@@ -5,4 +5,4 @@ Bem-vindo! Este repositório foi criado como um espaço seguro para eu aprender 
 **Objetivos:**
 * Entender o que são commits, branches e pull requests.
 * Aprender a resolver conflitos.
-* Colaborar em projetos de código aberto..
+* Colaborar em projetos de código aberto.
